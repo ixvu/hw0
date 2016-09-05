@@ -5,7 +5,6 @@
 
 
 
-The goal of this assignment is to set up a Linux virtual machine and Postgres database running in Microsoft Azure.
 
 
 ## Development Environment
@@ -45,11 +44,6 @@ pip install requests
 
 
 
-
-
-
-
-
 ## Perform some data analysis
 
 To complete this homework, go into your `hw0/` directory.  There should be a file called
@@ -66,31 +60,3 @@ Write a python script that reads the file and computes the number of records
 Ignore upper and lower casing, so "Single Malt Scotch", and "SINGLE Malt Scotch" all match, whereas
 "Single's Malty Scootch" does not.
 
-
-## Getting code to your machine
-
-We recommend writing your program on your local machine, in your favourite text editor (I use [Sublime Text](http://www.sublimetext.com/) but there are many other good ones). You can then copy this file to your VM with scp: `scp <filename.py> <username>@<ip address>:`. Each time you edit it, you need to copy it, which is a bit annoying, but does work.
-
-
-## Submitting your work
-
-Submit your assignment at http://goo.gl/forms/SQzmn4T4xd
-
-**Note that you must be logged in to Columbia's lionmail to submit, and we will only consider your _first_ submission**.
-
-
-Whew, you're almost done!  Go read the assigned readings.
-
-## Stop your virtual machine
-
-While your free trial is pretty good,  it's very easy to accidentally use up all of your credits (including those the course will provide you).
-To conserve your hours (and avoid wasting energy), make sure to turn off your machine **whenever you are not using it**. 
-
-1. Go to the [Azure Console](https://portal.azure.com/).
-2. In the left panel, click on "Virtual Machines".
-3. Select your VM.
-4. Click "Stop" in the menu at the top of the screen, then click "Yes".
-5. To resume the VM,  click "Start" in the menu.
-6. Before doing future assignments, you'll have to follow these instructions and choose "Start" to restart your instance.  Note that Shutting down and Starting the instance will potentially change the "Public DNS" value for that instance, however the URL <name>.cloudapp.net will stay the same.
-
-*NOTE*: Turning off your machine from the command prompt does not work on Azure (this seems to be "by design" which seems ... strange).
