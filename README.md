@@ -42,21 +42,3 @@ If you want to install a certain package that doesn't exist, you can install it 
 pip install requests
 ```
 
-
-
-## Perform some data analysis
-
-To complete this homework, go into your `hw0/` directory.  There should be a file called
-`iowa-liquor-sample.csv`.  The state of Iowa [released](https://data.iowa.gov/Economy/Iowa-Liquor-Sales/m3tr-qhgy)
-a dataset containing all sales transactions at alcoholic beverage stores during 2014.    We will use
-this dataset for many assignments in this course.  Since it contains over 3 million records, this is
-a small sample.
-
-**Disclaimer: this course does not condone drinking, we are using this dataset because it is a common format
-  for a sales transaction log in a silghtly more accessible domain than typical bank transactions**
-
-Write a python script that reads the file and computes the number of records 
-(in this file, each line is a record) that contain the exact case insensitive phrase "single malt scotch".
-Ignore upper and lower casing, so "Single Malt Scotch", and "SINGLE Malt Scotch" all match, whereas
-"Single's Malty Scootch" does not.
-
