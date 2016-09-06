@@ -1,18 +1,14 @@
 # HW 0
 
-* Assigned:
-* Due: 
+* Assigned: 9/7
+* Due: 9/12 10AM sharp
 
-
-
-
-
-## Development Environment
 
 For this lab, we've partnered with [Instabase](https://www.instabase.com/) to provide you with a hosted IPython environment. 
 To get started, create an account on the [website](https://www.instabase.com/account/register?use_token=true) (note that this URL is special for this class). 
 The service is still in beta, so:
 
+* Go to https://www.instabase.com/account/register?use_token=true
 * Use the following token: `token-prof-wu-columbia`
 * Make sure you sign up with your columbia email. 
 
@@ -29,16 +25,4 @@ After you've signed up, login and follow the steps below -
    * There are [numerous resources](https://www.google.com/search?q=jupyter%20tutorial) that can introduce you to Jupyter Notebook.
 
 
-**Installing packages**
-
-The instabase platform already comes installed with the popular data-science and machine learning packages. To get the complete list, you can interact with the `bash` like so in your IPython notebook
-```
-%%bash
-pip freeze
-```
-If you want to install a certain package that doesn't exist, you can install it on your own
-```
-%%bash
-pip install requests
-```
-
+Enjoy!
