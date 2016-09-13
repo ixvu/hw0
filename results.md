@@ -9,7 +9,6 @@ You can compute your hash by opening python and typing the following.  The `UNI`
 If you see your hash in the list below, then you successfully completed HW0.  We accepted all submissions that were on time and _attempted_ to complete the assignment.  
 Otherwise your submission was either late or did not attempt the assignment.
 
-
         dabd9fa5ff92da694c3dd119eb0f3fbc
         f9a7a6bb07b41816a9fdd350faa8f498
         16d833218dcf1ed4aa977eb8e1541b2b
@@ -22,6 +21,7 @@ Otherwise your submission was either late or did not attempt the assignment.
         a9ec6b68487b34c01bf6ed02acfac5df
         72f92a548cfb43859a8cd516ab69d193
         2c677150e2a185ec1ce10dc37d943914
+        53a3ef02fff7a7aaf3da55605ab4a559
         7b22c8f142c2947186b9094e946bf752
         56027f2b1c623e0259590e3f94c1fa06
         edff21c6015c2ddc551657cac03d6a25
