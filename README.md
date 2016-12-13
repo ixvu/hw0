@@ -9,7 +9,7 @@ To get started, create an account on the [website](https://www.instabase.com/acc
 The service is still in beta, so:
 
 * Go to https://www.instabase.com/account/register?use_token=true
-* Use the following token: `token-prof-wu-columbia`
+* Use the following token: `prof-wu-fall2016`
 * Make sure you sign up with your columbia email. 
 
 After you've signed up, login and follow the steps below - 
